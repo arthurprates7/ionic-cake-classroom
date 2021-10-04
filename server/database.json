@@ -1,0 +1,39 @@
+{
+    "produtos": [
+            {
+                "id": 1,
+                "name": "Bolo de Teste",
+                "valor": 18,
+                "imgUrl": "https://comidinhasdochef.com/wp-content/uploads/2020/02/Bolo-de-Cenoura-Tudo-Gostoso.jpg",
+                "descricao": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Atirei o pau no gatis, per gatis num morreus. Suco de cevadiss deixa as pessoas mais interessantis."
+            },
+            {
+                "id": 2,
+                "name": "Bolo de Morango",
+                "valor": 25,
+                "imgUrl": "https://www.receitasagora.com.br/wp-content/uploads/2020/09/receita-de-bolo-de-morango-com-leite-condensado-1.jpg",
+                "descricao": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Atirei o pau no gatis, per gatis num morreus. Suco de cevadiss deixa as pessoas mais interessantis."
+            },
+            {
+                "id": 3,
+                "name": "Bolo de Teste123",
+                "valor": 28,
+                "imgUrl": "https://amp.receitadevovo.com.br/wp-content/uploads/2020/10/bolo-de-nutella.jpg",
+                "descricao": "Nutella é um doce que todo mundo ama, por isso os bolos de nutella sempre fazem o maior sucesso, e que tal você experimentar?"
+            },
+            {
+                "id": 4,
+                "name": "Bolo de Bugado",
+                "valor": 20,
+                "imgUrl": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-bolo-brigadeiro.jpg?quality=85&strip=info",
+                "descricao": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Atirei o pau no gatis, per gatis num morreus. Suco de cevadiss deixa as pessoas mais interessantis."
+            },
+            {
+                "id": 5,
+                "name": "Bolo de Final",
+                "valor": 15,
+                "imgUrl": "https://t2.rg.ltmcdn.com/pt/images/1/8/3/bolo_de_trigo_simples_381_orig.jpg",
+                "descricao": "Um bolo simples e saboroso, ótimo para servir com café."
+            }
+    ]
+}
